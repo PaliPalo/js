@@ -94,7 +94,7 @@ locales.fr = {
     "Have an idea? A problem?": "Vous avez une idée ? Un problème ?",
     "Have an invite code?": "Vous avez un code d’invitation ?",
     "Have a promo code?": "Vous avez un code de promotion ?",
-    "Here's an image:<br>![](https://turtl.it/images<space> </space>/favicon.png)": "Voici une image:<br>![](https://turtl.it/images<space> </space>/favicon.png",
+    "Here's an image:<br>![](https://turtl.it/images<space> </space>/favicon.png)": "Voici une image:<br>![](https://turtl.it/images<space> </space>/favicon.png)",
     "Here's an image: ": "Voici une image : ",
     ", however you have {{length}} changes waiting to be synced that will be lost if you do this": ", notez que vous avez {{length}} modifications non synchronisées qui seront perdues si vous faites cela",
     "Ideas": "Idées",
